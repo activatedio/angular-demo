@@ -1,0 +1,24 @@
+
+.app-shell {
+  margin-top: 40px;
+  margin-left: 40px;
+  font-size: 24px;
+}
+
+.html, body {
+  height: 100%;
+}
+
+.sidenav {
+  width: 180px; /* Increase from default 200px to 300px */
+}
+
+.sidenav-container {
+  height: 100%;
+  overflow: hidden; /* Prevent scroll within container */
+}
+
+.main {
+  height: 100%;
+  overflow: hidden;
+}
